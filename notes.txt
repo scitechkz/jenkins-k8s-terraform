@@ -1,0 +1,4 @@
+Create aws ecr authentication -- check aws ECR creation
+
+
+
